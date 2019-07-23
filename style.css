@@ -1,0 +1,34 @@
+body {
+	font-size:20px;
+}
+
+#header {
+	text-align:right;
+}
+
+#title {
+	text-align:right;
+}
+
+.text-gray{
+	color:gray;
+}
+
+table,th,td {
+	border:1px solid black;
+}
+
+#out {
+	background-color:pink;
+	border:1px solid black;
+
+	height:150px;
+	width:300px;
+}
+
+#in {
+	background-color:green;
+	border:1px dotted black;
+	margin:10px 20px 30px 40px;
+	padding:20px;
+}
